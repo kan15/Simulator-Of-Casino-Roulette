@@ -1,4 +1,3 @@
-// Your code goes here
 let game = confirm('Do you want to play a game?');
 let numberUser;
 let numberGame;
