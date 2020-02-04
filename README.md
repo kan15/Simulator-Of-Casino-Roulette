@@ -1,5 +1,7 @@
 # Simple simulator of casino roulette. :moneybag::dollar::money_with_wings:
 
+In this task I had to follow the following points to create a simple analog of roulette.
+
 ## Step 1:
 -	Create a prompt window. Show the message inside the window ‘Do you want to play a game?’.
 -	In case the user clicks the 'Cancel' button, the message 'You did not become a billionaire, but can.' should be shown.
